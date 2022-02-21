@@ -5,8 +5,12 @@ const Navbar = () => {
             <h1>The Dojo blog</h1>
             <div className="links">
                 <Link to="/">Home</Link>
-                <Link to="/contact">Contact</Link>
-                <Link to="/about">About</Link>
+                <Link to="/create" style={{
+                    color: 'white',
+                    backgroundColor: '#f1356d',
+                    borderRadius: '8px' 
+                }}>New Blog</Link>
+                
             </div>
         </nav>
      );

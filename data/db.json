@@ -29,18 +29,6 @@
       "body": "hello I'm third new blog",
       "author": "yoshi",
       "id": 5
-    },
-    {
-      "title": "New Fourth Blog",
-      "body": "hello I'm fourth blog",
-      "author": "yoshi",
-      "id": 6
-    },
-    {
-      "title": "New 5th blog",
-      "body": "Hi , I'm New 5th blog!",
-      "author": "mario",
-      "id": 7
     }
   ]
 }
